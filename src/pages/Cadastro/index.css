@@ -1,0 +1,108 @@
+.container-cadastro {
+    max-width: 100vw;
+    max-height: 100vh;
+    font-family: 'Roboto';
+    display: flex;
+}
+
+.container-cadastro > img {
+    height: 100vh;
+    width: 50vw;
+}
+
+@media (max-width: 940px) {
+    .container-cadastro img {
+        display: none
+    }
+
+    .container-cadastro {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 460px) {
+    .div-cadastro {
+        max-width: 80%;
+    }
+
+    .div-cadastro button, .div-cadastro input, .div-cadastro h2 {
+        max-width: 80vw;
+    }
+}
+
+.div-cadastro form {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.div-cadastro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    max-width: 50%;
+    height: 100vh;
+
+    padding: 100px 200px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    
+    margin-bottom: 20px;
+}
+
+input {
+    all: unset;
+    
+    width: 400px;
+    margin-bottom: 20px;
+    height: 20px;
+    background: #FDFAFA;
+    border: 1px solid #E8E8E8;
+    padding: 16px;
+}
+
+
+.button-1, .button-2 {
+    all: unset;
+    
+    min-height: 8vh;
+    width: 400px;
+    border-radius: 8px;
+    padding: 0 16px;
+
+    color: white;
+
+    font-weight: bold;
+    text-align: center;
+
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.button-1 {
+    margin-top: 30px;
+    background-color: #04C45C;;
+}
+
+.button-2 {
+    background-color: rgba(251, 6, 21, 0.65);;
+    margin-bottom: 30px;
+}
+
+.span-cadastro {
+    align-self: center;
+}
+
+.link {
+    text-decoration: none;
+    color: #1972A8
+}
