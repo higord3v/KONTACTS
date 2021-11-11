@@ -18,7 +18,7 @@ Aqui é possível realizar um cadastro inserindo nome, email e senha nos campos 
  
 ## Home
 
-Por último, a página principa que adiciona, edita e remove contatos:
+Por último, a página principal que adiciona, edita e remove contatos:
 
 ![Screenshot 2021-11-11 19 55 18](https://user-images.githubusercontent.com/85526418/141381859-3debb34b-572e-41b7-b07e-ff1df5261100.png)
 ![Screenshot 2021-11-11 19 55 50](https://user-images.githubusercontent.com/85526418/141381871-16cc4786-4e47-48ec-b26f-5b73ea70a036.png)
