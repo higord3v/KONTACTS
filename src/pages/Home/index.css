@@ -193,7 +193,7 @@ header > h1 {
 }
 
 .modal-container img {
-    margin-left: auto;
+    padding-left: 100%;
     cursor:  pointer;
 }
 
