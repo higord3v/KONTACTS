@@ -27,6 +27,4 @@ Por último, a página principal que adiciona, edita e remove contatos:
 # Versão mobile: 
 ![Screenshot 2021-11-11 19 52 44](https://user-images.githubusercontent.com/85526418/141381980-e7c8b964-0691-41a4-a9da-2ae41eb3fa78.png)
 ![Screenshot 2021-11-11 19 52 59](https://user-images.githubusercontent.com/85526418/141381997-9db174d0-b528-47a6-9b41-48c863b7d2b7.png)
-![Screenshot 2021-11-11 19 54 01](https://user-images.githubusercontent.com/85526418/141382010-e40fc4e3-b6cb-4cd4-a7c7-b9d4454e269c.png)
-
-...end
+![kontacts_gif](https://user-images.githubusercontent.com/85526418/141836338-4361edca-cbe4-47e7-b953-6fccc1cfd576.gif)
